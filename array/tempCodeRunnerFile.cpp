@@ -1,0 +1,2 @@
+
+    cin>> data.nim;
